@@ -3892,3 +3892,8 @@
     - 'DOMAIN-SUFFIX,youtube.co.ae,Youtube'
     - 'DOMAIN,redirector.c.youtubeeducation.com,Youtube'
     - 'DOMAIN-SUFFIX,ads.youtube.com,Youtube'
+#兜底规则
+    - 'DOMAIN-SUFFIX,CN,DIRECT'
+    - 'GEOIP,CN,DIRECT,no-resolve'
+    - 'GEOIP,CN,DIRECT'
+    - 'MATCH,节点选择'
