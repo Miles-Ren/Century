@@ -31,6 +31,7 @@
     - 'DOMAIN,openaicomproductionae4b.blob.core.windows.net,ChatGPT'
     - 'DOMAIN,production-openaicom-storage.azureedge.net,ChatGPT'
     - 'DOMAIN-SUFFIX,chatgpt.com,ChatGPT'
+    - 'DOMAIN-SUFFIX,ws.chatgpt.com,ChatGPT'
     - 'DOMAIN-SUFFIX,chat.com,ChatGPT'
     - 'DOMAIN-SUFFIX,oaistatic.com,ChatGPT'
     - 'DOMAIN-SUFFIX,oaiusercontent.com,ChatGPT'
